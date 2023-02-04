@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4ac3823-a665-4395-9c75-ddc3ac7a9b21": {
+      "ProjectGuid": "e4ac3823-a665-4395-9c75-ddc3ac7a9b21",
+      "DisplayName": "CatFact",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
